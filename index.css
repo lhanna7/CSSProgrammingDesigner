@@ -1,0 +1,15 @@
+header {
+    background-color: purple;
+    color: white;
+    padding: 24px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    max-width: 300px;
+}
+
+.warning {
+    color: red;
+}
